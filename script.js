@@ -77,7 +77,7 @@ function generatePassword() {
     '+',
   ];
 
-  // empty arrays for collecting user inputs and results/password
+  // empty arrays for collecting user inputs and results/password.  
   var userOptions = [];
   var results = [];
 
