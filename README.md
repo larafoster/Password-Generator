@@ -14,14 +14,14 @@ The task in this project was to build a password generator. The application prom
 Upload index.html and assets folder to the deployed webserver.  
 The deployed website linked above was deployed using GitHub Pages.
 
-#### Usage
+### Usage
 
 A quick and easy application for generating a random password.
 
 ![screenshot of index.html](./screenshot.png)
 
 
-#### Copy to Clipboard bonus
+### Copy to Clipboard bonus
 I found this code here
 [] (https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard/)
 Using execCommand()
