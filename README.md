@@ -18,7 +18,7 @@ The deployed website linked above was deployed using GitHub Pages.
 
 A quick and easy application for generating a random password.
 
-![code snippet (./screenshot.png)
+![screenshot of index.html](./screenshot.png)
 
 
 #### Copy to Clipboard bonus
